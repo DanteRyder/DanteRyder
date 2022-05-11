@@ -1,7 +1,7 @@
 ## <p  align="center">🧼 Hello World, I'm Isaías de França Leite 🧼</p>
 
 <div align="center">
-  <img align="center" width="350" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70219585/167756967-e8e2e7ea-f379-4934-b8b4-ce2ac0e750cb.gif" />
+  <img align="center" width="350" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70219585/167778911-92dc4560-130c-42d9-84fd-fbca3e674a35.gif" />
 </div>
 
 ## <p  align="center">Full Stack programmer focused on .NET and React.<br/>I know this because Dante Ryder knows this...</p>
