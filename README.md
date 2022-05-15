@@ -61,9 +61,12 @@
 ##
 ### <p  align="center">☎️ Contact ☎️</p>
 <div align="center">
-    <a href="https://github.com/DanteRyder" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <a href="mailto:isaias_leite_@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isa%C3%ADas-de-fran%C3%A7a-leite-99811a231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6zwdzvwCSFu84rvfCdV4%2FQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/DanteRyder" target="_blank"><img src="https://user-images.githubusercontent.com/70219585/168496867-68b55d39-975c-4077-8e16-7e4a2f82fa1e.png" target="_blank" width="160"></a>
+  <a href="mailto:isaias_leite_@outlook.com" target="_blank"><img src="https://user-images.githubusercontent.com/70219585/168496856-631d1a57-7d24-48f4-9979-c9f2c9e01e8a.png" target="_blank" width="160"></a>
+  <a href="https://www.linkedin.com/in/isa%C3%ADas-de-fran%C3%A7a-leite-99811a231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYp3Z3kkPRR2NKtw84KCTXg%3D%3D" target="_blank"><img src="https://user-images.githubusercontent.com/70219585/168496864-c14c8a26-4345-48e6-be51-188c4cf61105.png" target="_blank" width="160"></a>
+  <a href="https://www.artstation.com/danteryder" target="_blank"><img src="https://user-images.githubusercontent.com/70219585/168496890-5572dae1-9c0e-4630-a141-e18e6162ab5e.png" target="_blank" width="160"></a>
+  <a href="https://www.behance.net/danteryder" target="_blank"><img src="https://user-images.githubusercontent.com/70219585/168496877-93a986b0-2451-4da6-b4b1-c2397d761573.png" target="_blank" width="160"></a>
+  <a href="https://steamcommunity.com/profiles/76561198169854793" target="_blank"><img src="https://user-images.githubusercontent.com/70219585/168496838-f9ffd32c-a7c4-4fc7-bfc3-5b0430e6a881.png" target="_blank" width="160"></a>
 </div>
 <br/>
 <img width="100%" src="https://media3.giphy.com/media/3ohzdNUGVgy2TIUXXG/giphy.gif?cid=790b7611d86ad8caec3714fdcb2462dd46893fbe84187362&rid=giphy.gif&ct=g" />
