@@ -69,4 +69,4 @@
   <a href="https://steamcommunity.com/profiles/76561198169854793" target="_blank"><img src="https://user-images.githubusercontent.com/70219585/168496838-f9ffd32c-a7c4-4fc7-bfc3-5b0430e6a881.png" target="_blank" width="160"></a>
 </div>
 <br/>
-<img width="100%" src="https://media3.giphy.com/media/3ohzdNUGVgy2TIUXXG/giphy.gif?cid=790b7611d86ad8caec3714fdcb2462dd46893fbe84187362&rid=giphy.gif&ct=g" />
+<img width="1000" src="https://media3.giphy.com/media/3ohzdNUGVgy2TIUXXG/giphy.gif?cid=790b7611d86ad8caec3714fdcb2462dd46893fbe84187362&rid=giphy.gif&ct=g" />
